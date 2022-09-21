@@ -18,7 +18,7 @@ This project, based on a fictional data set created by IBM data scientists, is f
 - Data Understanding: Explore the dataset with the analytical tools studied and write a concise “data understanding” report describing data semantics, assessing data quality, the distribution of the variables and the pairwise correlations.
 
 <img
-  src="/Images/Attrition.png"
+  src="/images/Attrition.png"
   width=50%>
 
 
@@ -26,13 +26,13 @@ This project, based on a fictional data set created by IBM data scientists, is f
 
 
 <img
-  src="/Images/K-Means-3D.png"
+  src="/images/K-Means-3D.png"
   width=50%>
 
 - Classification: Explore the dataset using classification trees and KNN. Use them to predict the target variable. 
 
 <img
-  src="/Images/Tree.png"
+  src="/images/Tree.png"
   width=50%>
 
 - Association Rules: Explore the dataset using frequent pattern mining and association rules extraction. Then use them to predict a variable either for replacing missing values or to predict target variable.
